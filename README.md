@@ -1,4 +1,4 @@
-# HTML5-e-CSS3-puros
-Website sem frameworks
+# HTML5-and-CSS3
+Website without frameworks
 
-Praticando o desenvolvimento de aplicações WEB sem o uso de Frameworks, buscando a compreensão e facilitando o dia a dia web.
+Practicing the development of WEB applications without Frameworks, seeking understanding and facilitating the web-based day-to-day.
